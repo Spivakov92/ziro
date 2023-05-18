@@ -1,2 +1,8 @@
-node_modules
-
+/.DS_Store
+/gulpfile.js
+/instuctions.md
+/node_modules
+/package-lock.json
+/package.json
+/snippets.txt
+/src
